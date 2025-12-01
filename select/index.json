@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Lalalalalalalalalala",
+  "base_artist": "Mikolas Josef",
+  "createdAt": "2025-12-01T01:53:40.362549Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lalalalalalalalalala",
+      "artist": "Mikolas Josef",
+      "has_synced": true,
+      "path": "select/01_Lalalalalalalalalala_Mikolas_Josef.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lalalalalalalalalala",
+      "artist": "Mikolas Josef",
+      "has_synced": true,
+      "path": "select/02_Lalalalalalalalalala_Mikolas_Josef.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lalalalalalalalalala",
+      "artist": "Mikolas Josef",
+      "has_synced": true,
+      "path": "select/03_Lalalalalalalalalala_Mikolas_Josef.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lalalalalalalalalala",
+      "artist": "Mikolas Josef",
+      "has_synced": true,
+      "path": "select/04_Lalalalalalalalalala_Mikolas_Josef.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lalalalalalalalalala",
+      "artist": "Mikolas Josef",
+      "has_synced": true,
+      "path": "select/05_Lalalalalalalalalala_Mikolas_Josef.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lalalalalalalalalala",
+      "artist": "MIKOLAS",
+      "has_synced": true,
+      "path": "select/06_Lalalalalalalalalala_MIKOLAS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "MIKOLAS - Lalalalalalalalalala (Official Music Video)",
+      "artist": "MIKOLAS",
+      "has_synced": true,
+      "path": "select/07_MIKOLAS_-_Lalalalalalalalalala_(Official_Music_Video)_MIKOLAS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LALALALALALALALALALA",
+      "artist": "MIKOLAS",
+      "has_synced": true,
+      "path": "select/08_LALALALALALALALALALA_MIKOLAS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lalalalalalalalalala - Acoustic",
+      "artist": "MIKOLAS",
+      "has_synced": false,
+      "path": "select/09_Lalalalalalalalalala_-_Acoustic_MIKOLAS.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "LALALALALALALALALALA",
+      "artist": "MIKOLAS",
+      "has_synced": true,
+      "path": "select/10_LALALALALALALALALALA_MIKOLAS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "MIKOLAS - Lalalalalalalalalala (Official Music Video)",
+      "artist": "Mikolas Josef",
+      "has_synced": true,
+      "path": "select/11_MIKOLAS_-_Lalalalalalalalalala_(Official_Music_Video)_Mikolas_Josef.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "Lalalalalalalalalala",
+      "artist": "Mikolas Josef",
+      "has_synced": false,
+      "path": "select/pl_Lalalalalalalalalala_Mikolas_Josef.txt"
+    }
+  ]
+}
